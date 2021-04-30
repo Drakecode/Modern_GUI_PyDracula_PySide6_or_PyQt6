@@ -14,6 +14,8 @@
 #
 # ///////////////////////////////////////////////////////////////
 
+# To add in modules/ui_main.py each time:  from . resources_rc import *
+
 import sys
 import platform
 
